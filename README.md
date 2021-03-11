@@ -38,5 +38,5 @@ Once the SQL analysis was complete, I exported csv files into Excel for data vis
 ________________________________________________________________________________________
 
 #### How to view this repository
-All SQL scripts are in the scripts folder.  The exported csv files are in the csv_extracts folder.  The final PowerPoint presentation is the PDF named App_Trader_ksylvester. 
+All SQL scripts are in the scripts folder.  The exported csv files are in the folder named csv_files_for_visualizations.  The final PowerPoint presentation is the PDF named App_Trader_ksylvester. 
 
