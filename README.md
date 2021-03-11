@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 #### Premise
 
-Our team has been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store. Unfortunately, the data for Apple Store apps and Android Play Store Apps is located in separate tables with no referential integrity.
+Our team has been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store. Unfortunately, the data for app store is located in a separate table with no referential integrity.
 
 App Trader is a broker that purchases the rights to apps from developers in order to market the apps and offer in-app purchase. App developers retain **all** money from users purchasing the app, and they retain _half_ of the money made from in-app purchases. App Trader will be solely responsible for marketing apps they purchase rights to.  
 
@@ -26,4 +26,9 @@ a. Develop some general recommendations as to the price range, genre, content ra
 b. Develop a Top 10 List of the apps that App Trader should buy next week for its **Black Friday** debut.  
 
 c. Prepare a 5-10 minute presentation for the leadership team of App Trader to inform them of your recommendations.
+
+#### Analysis
+
+#### How to view this repository
+
 
