@@ -23,9 +23,10 @@ e. App Trader would prefer to work with apps that are available in both the App 
 a. Develop some general recommendations as to the price range, genre, content rating, or anything else for apps that the company should target.  
 b. Develop a Top 10 List of the apps that App Trader should buy.  
 c. Prepare a 5-10 minute presentation for the leadership team of App Trader to inform them of your recommendations.
+_______________________________________________________________________________________
 
 #### Analysis
-________________________________________________________________________________________
+
 The entire analysis was completed in SQL utilizing two 2 disparate data sets:  Apple app store data and Android Play Store data.  The app stores had a different rating, genre category and age recommendation for each app which required reconciling before conducting an analysis.
 
 My first step in the analysis was to narrow down the list to only apps that were present in both app stores. Then I determined the profitabiliy for each app based on the provided metrics and sorted from most profitable to least.  This required some complex calculations and lengthly SQL code.  To ensure that I was truly finding the most profitable apps, regardless of which store(s) they were present in, I conducted a second analysis to determine profitability of all apps. These calculations were even more complex and again required lengthly SQL code.  I found that the most profitable apps matched the results from the first, narrowed down list, which confirmed the hypothesis that the most profitable apps were present in both app stores. 
@@ -34,7 +35,8 @@ I found that the top 7 most profitably apps were clearly defined, but the apps t
 
 Once the SQL analysis was complete, I exported csv files into Excel for data visualizations and prepared a polished presentation in PowerPoint.
 
-#### How to view this repository
 ________________________________________________________________________________________
+
+#### How to view this repository
 
 
