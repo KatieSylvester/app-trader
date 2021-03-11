@@ -1,4 +1,8 @@
 ## App Trader
+
+![first page of powerpoint](../main/images/App_Trader_front_page.jpg)
+
+
 Note: This was a group project at Nashville Software School.  However, the analysis, scripts, visualizations and PowerPoint presentation within the repository were all created by me.
 ________________________________________________________________________________________
 
