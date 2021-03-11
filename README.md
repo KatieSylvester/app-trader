@@ -38,5 +38,5 @@ Once the SQL analysis was complete, I exported csv files into Excel for data vis
 ________________________________________________________________________________________
 
 #### How to view this repository
-
+My SQL scripts are in the scripts folder.  The exported csv files are in the data folder.  The final PowerPoint presentation is  
 
