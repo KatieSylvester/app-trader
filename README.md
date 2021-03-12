@@ -11,7 +11,6 @@ Note: This was a group project at Nashville Software School.  However, the analy
 * [General Information](#general-information)
 * [Technologies](#technologies)
 * [Files in this Repository](#files)
-* [Data Exploration Questions](#data)
 * [Analysis](#analysis)
 <br>
 
