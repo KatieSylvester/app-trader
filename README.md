@@ -4,14 +4,13 @@
 <br>
 <br>
 Note: This was a group project at Nashville Software School.  However, the analysis, scripts, visualizations and PowerPoint presentation within the repository were all created by me.
-
+<br>
 
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
 * [Data Exploration Questions](#data)
 * [Files in this Repository](#files)
-<br>
 <br>
 
 ## <a name="general-information"></a>General Information
