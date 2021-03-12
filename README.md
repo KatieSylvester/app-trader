@@ -11,6 +11,7 @@ Note: This was a group project at Nashville Software School.  However, the analy
 * [General Information](#general-information)
 * [Technologies](#technologies)
 * [Data Exploration Questions](#data)
+* [Analysis](#analysis)
 * [Files in this Repository](#files)
 <br>
 
@@ -35,7 +36,6 @@ a. Develop some general recommendations as to the price range, genre, content ra
 b. Develop a Top 10 List of the apps that App Trader should buy.  
 c. Prepare a 5-10 minute presentation for the leadership team of App Trader to inform them of your recommendations.
 <br>
-<br>
 
 ## <a name="technologies"></a>Technologies
 Project is created with:
@@ -43,12 +43,8 @@ Project is created with:
 * Excel for data visualizations
 * Power Point for final client presentation
 <br>
-<br>
 
-
-
-
-#### Analysis
+## Analysis
 
 The entire analysis was completed in SQL utilizing two 2 disparate data sets:  Apple app store data and Android Play Store data.  The app stores had a different rating, genre category and age recommendation for each app which required reconciling before conducting an analysis.
 
