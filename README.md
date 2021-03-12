@@ -5,6 +5,7 @@
 <br>
 Note: This was a group project at Nashville Software School.  However, the analysis, scripts, visualizations and PowerPoint presentation within the repository were all created by me.
 <br>
+<br>
 
 ## Table of Contents
 * [General Information](#general-information)
