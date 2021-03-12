@@ -21,19 +21,15 @@ Our team has been hired by a mock company called App Trader to help them explore
 App Trader is a broker that purchases the rights to apps from developers in order to market the apps and offer in-app purchase. App developers retain **all** money from users purchasing the app, and they retain _half_ of the money made from in-app purchases. App Trader will be solely responsible for marketing apps they purchase rights to.  
 <br>
 
-## Assumptions
+<u>Assumptions</u>
 a. App Trader will purchase apps for 10,000 times the price of the app for each app store. For apps that are priced from free up to $1.00, the purchase price is $10,000.  
-
 b. Apps earn $5000 per month on average from each app store from in-app advertising and in-app purchases _regardless_ of the price of the app.  
-
 c. App Trader will spend an average of $1000 per month to market an app _regardless_ of the price of the app. If App Trader owns rights to the app in both stores, it can market the app for both stores for a single cost of $1000 per month.  
-
 d. For every half point that an app gains in rating, its projected lifespan increases by one year, in other words, an app with a rating of 0 can be expected to be in use for 1 year, an app with a rating of 1.0 can be expected to last 3 years, and an app with a rating of 4.0 can be expected to last 9 years. Ratings should be rounded to the nearest 0.5 to evaluate an app's likely longevity.  
-
 e. App Trader would prefer to work with apps that are available in both the App Store and the Play Store since they can market both for the same $1000 per month. 
 <br>
 
-## Deliverables
+<u>Deliverables</u>
 a. Develop some general recommendations as to the price range, genre, content rating, or anything else for apps that the company should target.  
 b. Develop a Top 10 List of the apps that App Trader should buy.  
 c. Prepare a 5-10 minute presentation for the leadership team of App Trader to inform them of your recommendations.
@@ -47,7 +43,6 @@ Project is created with:
 <br>
 
 ## Analysis
-
 The entire analysis was completed in SQL utilizing two 2 disparate data sets:  Apple app store data and Android Play Store data.  The app stores had a different rating, genre category and age recommendation for each app which required reconciling before conducting an analysis.
 
 My first step in the analysis was to narrow down the list to only apps that were present in both app stores. Then I determined the profitabiliy for each app based on the provided metrics and sorted from most profitable to least, which required some complex calculations and lengthy SQL code.  To ensure that I was truly finding the most profitable apps, regardless of which store(s) they were present in, I conducted a second analysis to determine profitability of all apps. These calculations were even more complex and again required lengthly SQL code.  I found that the most profitable apps matched the results from the first, narrowed down list, which confirmed the hypothesis that the most profitable apps were present in both app stores. 
