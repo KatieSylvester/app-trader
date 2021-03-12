@@ -1,18 +1,24 @@
 ## App Trader
 
 ![first page of powerpoint](../main/images/App_Trader_front_page.jpg)
-
-
+<br>
+<br>
 Note: This was a group project at Nashville Software School.  However, the analysis, scripts, visualizations and PowerPoint presentation within the repository were all created by me.
-________________________________________________________________________________________
 
-#### Premise
+## Table of Contents
+* [General Information](#general-information)
+* [Technologies](#technologies)
+* [Data Exploration Questions](#data)
+* [Files in this Repository](#files)
+<br>
+<br>
 
-Our team has been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store. Unfortunately, the data for app store is located in a separate table with no referential integrity.
+## <a name="general-information"></a>General Information
+Our team has been hired by a mock company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store. Unfortunately, the data for app store is located in a separate table with no referential integrity.
 
 App Trader is a broker that purchases the rights to apps from developers in order to market the apps and offer in-app purchase. App developers retain **all** money from users purchasing the app, and they retain _half_ of the money made from in-app purchases. App Trader will be solely responsible for marketing apps they purchase rights to.  
 
-#### Assumptions
+# Assumptions
 a. App Trader will purchase apps for 10,000 times the price of the app for each app store. For apps that are priced from free up to $1.00, the purchase price is $10,000.  
 
 b. Apps earn $5000 per month on average from each app store from in-app advertising and in-app purchases _regardless_ of the price of the app.  
@@ -23,11 +29,23 @@ d. For every half point that an app gains in rating, its projected lifespan incr
 
 e. App Trader would prefer to work with apps that are available in both the App Store and the Play Store since they can market both for the same $1000 per month. 
 
-#### Deliverables
+# Deliverables
 a. Develop some general recommendations as to the price range, genre, content rating, or anything else for apps that the company should target.  
 b. Develop a Top 10 List of the apps that App Trader should buy.  
 c. Prepare a 5-10 minute presentation for the leadership team of App Trader to inform them of your recommendations.
-_______________________________________________________________________________________
+<br>
+<br>
+
+## <a name="technologies"></a>Technologies
+Project is created with:
+* SQL (Postgres) for all analysis
+* Excel for data visualizations
+* Power Point for final client presentation
+<br>
+<br>
+
+
+
 
 #### Analysis
 
@@ -41,8 +59,8 @@ I also further explored the data to make more general observations such as avera
 
 Once the SQL analysis was complete, I exported csv files into Excel for data visualizations and prepared a polished presentation in PowerPoint.
 
-________________________________________________________________________________________
-
-#### How to view this repository
-All SQL scripts are in the scripts folder.  The exported csv files are in the folder named csv_files_for_visualizations.  The final PowerPoint presentation is the PDF named App_Trader_ksylvester. 
+## <a name="files"></a>Files in this Repository
+* All SQL scripts are in the scripts folder.  
+* The exported csv files are in the folder named csv_files_for_visualizations.  
+* The final PowerPoint presentation is the PDF named App_Trader_ksylvester. 
 
