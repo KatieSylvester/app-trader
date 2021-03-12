@@ -42,6 +42,12 @@ Project is created with:
 * Power Point for final client presentation
 <br>
 
+## <a name="files"></a>Files in this Repository
+* All SQL scripts are in the scripts folder.  
+* The exported csv files are in the folder named csv_files_for_visualizations.  
+* The final PowerPoint presentation is the PDF named App_Trader_ksylvester. 
+<br>
+
 ## Analysis
 The entire analysis was completed in SQL utilizing two 2 disparate data sets:  Apple app store data and Android Play Store data.  The app stores had a different rating, genre category and age recommendation for each app which required reconciling before conducting an analysis.
 
@@ -52,9 +58,4 @@ I found the top 7 most profitable apps based on profitability alone, but the app
 I also further explored the data to make more general observations such as average app profitability based on app price point, content rating, and genre.
 
 Once the SQL analysis was complete, I exported csv files into Excel for data visualizations and prepared a polished presentation in PowerPoint.
-
-## <a name="files"></a>Files in this Repository
-* All SQL scripts are in the scripts folder.  
-* The exported csv files are in the folder named csv_files_for_visualizations.  
-* The final PowerPoint presentation is the PDF named App_Trader_ksylvester. 
 
