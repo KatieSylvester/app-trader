@@ -29,7 +29,6 @@ e. App Trader would prefer to work with apps that are available in both the App 
 <br>
 
 ## <a name="technologies"></a>Technologies
-Project is created with:
 * SQL (Postgres) for all analysis
 * Excel for data visualizations
 * Power Point for final client presentation
